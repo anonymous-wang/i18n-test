@@ -2,5 +2,8 @@
   "information": "Message",
   "mine": "Mining",
   "HeaderRefreshingText": "Loading...fs",
-  "AutoFooterIdleText": "Click or swipe up to load more foofsfsdf"
+  "AutoFooterIdleText": "Click or swipe up to load more foofsfsdf",
+  "AutoFooterNoMoreDataText": "No datafdsfsfsdfsf",
+  "BackFooterPullingText": "Release to load more12313123123",
+  "BackFooterNoMoreDataText": "No data12313123132"
 }
