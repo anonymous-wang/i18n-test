@@ -1,0 +1,18 @@
+{
+  "wallet": "ttt",
+  "information": "Message",
+  "mine": "Me",
+  "HeaderIdleText": "Swipe down to refresh",
+  "HeaderPullingText": "Release to refresh",
+  "HeaderRefreshingText": "Loading...",
+  "AutoFooterIdleText": "Click or swipe up to load more",
+  "AutoFooterRefreshingText": "Loading...",
+  "AutoFooterNoMoreDataText": "No data",
+  "BackFooterIdleText": "Swipe up to load more",
+  "BackFooterPullingText": "Release to load more",
+  "BackFooterRefreshingText": "Loading...",
+  "BackFooterNoMoreDataText": "No data",
+  "HeaderLastTimeText": "Last update: ",
+  "HeaderDateTodayText": "Today",
+  "HeaderNoneLastDateText": "No records"
+}
